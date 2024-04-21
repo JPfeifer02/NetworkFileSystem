@@ -9,6 +9,6 @@ Cloud file system where the end user can create directories, store files, and mo
 How to use the file system:
 1. Run the program from the command line: $ python3 SimpleServer.py
 2. Go to a web browser and type: localhost:8080
-3. 
+3. You can then see all the files available on the server.
 
 
